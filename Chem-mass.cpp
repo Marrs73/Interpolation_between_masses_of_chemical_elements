@@ -5,7 +5,7 @@
 #include <math.h>
 #include <vector>
 using namespace std;
-
+// Testing once again
 void element_pillar (int number);
 void graph();
 double basisPolynom(int x, int j, vector <double> &vec, int size);
